@@ -4,4 +4,10 @@ Suppose a Person is in an emergency situation, he/she called for help over telep
 
 1. In index.html many bootstrap and css link has been used for responsive web design. to get that, just need to download the bootstrap and css folders from template.
 
-2. In 
+2. The request method from API and the result method is done in LocationAPI.py file.
+
+3. In key.py the reference of API_Key is just given.
+
+4. script.js is linked with the other file.
+
+Just the demo coe is given here
