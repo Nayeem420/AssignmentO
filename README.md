@@ -10,4 +10,4 @@ Suppose a Person is in an emergency situation, he/she called for help over telep
 
 4. script.js is linked with the other file.
 
-Just the demo coe is given here
+Just the demo code is given here
